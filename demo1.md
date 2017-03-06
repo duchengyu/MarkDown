@@ -39,9 +39,9 @@
 
 ### 有序列表 Demo
 
-杜承彧的个人信息；
-1. Name: duchengyu
-2. QQ: 454530478
+杜承彧的个人信息；  
+1. Name: duchengyu  
+2. QQ: 454530478  
 
 
 
