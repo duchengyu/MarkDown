@@ -59,12 +59,27 @@ low:
 
 ## 多级列表问题
 
+- 问题1：如何打断：空行不行，需要文字打断
 
 1. item1
  1. item1.1
  2. item1.2
 2. item2
 
+ohohojnbh
+
+3. item3
+
+
+- 问题2：打断的列表如何续上
+
+
+1. item1
+ 1. item1.1
+ 2. item1.2
+2. item2
+
+    ohohojnbh
 
 3. item3
 
